@@ -1,4 +1,4 @@
 i = 0
 while i < 10:
-    print("Hello world" , i)
+    print("Hello Javed" , i)
     i=i+1
