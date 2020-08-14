@@ -1,4 +1,4 @@
 i = 0
 while i < 10:
-    print("Testing catlight12345" , i)
+    print("Running the Python code on Git Repo" , i)
     i=i+1
