@@ -1,4 +1,4 @@
 i = 0
 while i < 10:
-    print("Running the Python code on Git Repo" , i)
+    print("printing printtest.py" , i)
     i=i+1
